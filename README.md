@@ -23,7 +23,7 @@ This project analyzes and predicts the operational efficiency of manufacturing t
 
 - `MFG_StitchingUnit.ipynb` — Analysis and modeling for the Stitching Unit department.
 - `MFG_Finishing&Quality.ipynb` — Analysis and modeling for the Finishing & Quality department.
-- *(EDA notebook mentioned but not shared due to size constraints; the workflow and insights are described below.)*
+- `MFG_EDA.ipynb`
 
 ---
 
